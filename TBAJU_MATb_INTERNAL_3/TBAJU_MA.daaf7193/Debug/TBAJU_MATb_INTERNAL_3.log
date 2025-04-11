@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+C:\Users\Alex\OneDrive\Studium\DHBW\Studienarbeit\wunderschoene_plutovki\TBAJU_MATb_INTERNAL_3\dllmain.cpp(101,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+C:\Users\Alex\OneDrive\Studium\DHBW\Studienarbeit\wunderschoene_plutovki\TBAJU_MATb_INTERNAL_3\dllmain.cpp(102,72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/dllmain.cpp')
+  
+  TBAJU_MATb_INTERNAL_3.vcxproj -> C:\Users\Alex\OneDrive\Studium\DHBW\Studienarbeit\wunderschoene_plutovki\TBAJU_MATb_INTERNAL_3\Debug\TBAJU_MATb_INTERNAL_3.dll

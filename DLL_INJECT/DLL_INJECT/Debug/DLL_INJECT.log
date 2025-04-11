@@ -1,0 +1,12 @@
+﻿  DLL_INJECT.cpp
+C:\Users\Alex\OneDrive\Studium\DHBW\S5_OffensiveSecurity\Projekte\DLL2\DLL_INJECT\DLL_INJECT.cpp(47,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'wchar_t *'
+      C:\Users\Alex\OneDrive\Studium\DHBW\S5_OffensiveSecurity\Projekte\DLL2\DLL_INJECT\DLL_INJECT.cpp(47,16):
+      consider using '%ls' in the format string
+      C:\Users\Alex\OneDrive\Studium\DHBW\S5_OffensiveSecurity\Projekte\DLL2\DLL_INJECT\DLL_INJECT.cpp(47,16):
+      consider using '%lls' in the format string
+      C:\Users\Alex\OneDrive\Studium\DHBW\S5_OffensiveSecurity\Projekte\DLL2\DLL_INJECT\DLL_INJECT.cpp(47,16):
+      consider using '%Ls' in the format string
+      C:\Users\Alex\OneDrive\Studium\DHBW\S5_OffensiveSecurity\Projekte\DLL2\DLL_INJECT\DLL_INJECT.cpp(47,16):
+      consider using '%ws' in the format string
+  
+  DLL_INJECT.vcxproj -> C:\Users\Alex\OneDrive\Studium\DHBW\S5_OffensiveSecurity\Projekte\DLL2\DLL_INJECT\Debug\DLL_INJECT.exe
