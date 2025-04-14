@@ -1,0 +1,9 @@
+﻿  checksum.cpp
+C:\Users\Jonas\source\repos\Studienarbeit Anticheat v3\Anticheat\Anticheat\checksum.cpp(66,30): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Jonas\source\repos\Studienarbeit Anticheat v3\Anticheat\Anticheat\checksum.cpp(73,30): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  common.cpp
+  main.cpp
+  memory_monitor.cpp
+  process_monitor.cpp
+  Code wird generiert...
+  Anticheat.vcxproj -> C:\Users\Jonas\source\repos\Studienarbeit Anticheat v3\Anticheat\x64\Debug\Anticheat.exe
